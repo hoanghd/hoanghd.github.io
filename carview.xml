@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root xmlns="http://schemas.datacontract.org/2004/07/eCRM.Models" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+   <Authentication>True</Authentication>
+   <OutputTime>2021/02/05 10:29:31</OutputTime>
+   <Status>1</Status>
+   <AssessInfo>
+      <Item>
+         <AssessorName>ネクステージ</AssessorName>
+         <ProviderID>12771</ProviderID>
+         <ProviderName>株式会社ネクステージ</ProviderName>
+         <CustomerID>29747987</CustomerID>
+         <ContactID>8611735</ContactID>
+         <ContactDate>2021/01/29 0:01:29</ContactDate>
+         <Terminal>PC</Terminal>
+         <IsBroken>普通車</IsBroken>
+         <CarType>国産車</CarType>
+         <Name>6_130,001～140,000_14_OK</Name>
+         <NameKana>－</NameKana>
+         <PostalCode>470-0431</PostalCode>
+         <Region>愛知県</Region>
+         <Address>豊田市 西中山町</Address>
+         <Tel1>090-1270-8490</Tel1>
+         <Tel2 />
+         <Fax />
+         <EMail>test@gmail.com</EMail>
+         <Model>ダイハツ キャストアクティバ</Model>
+         <ModelYear>2016年/平成28年</ModelYear>
+         <Grade />
+         <Color />
+         <Transmission />
+         <Steering />
+         <Door />
+         <Displacement />
+         <FuelType />
+         <Mileage>130,001～140,000</Mileage>
+         <NextCheck />
+         <Option />
+         <Comment />
+         <CVStatus>有効</CVStatus>
+         <CVComment />
+      </Item>
+      <Item>
+         <AssessorName>ネクステージ</AssessorName>
+         <ProviderID>12771</ProviderID>
+         <ProviderName>株式会社ネクステージ</ProviderName>
+         <CustomerID>29748007</CustomerID>
+         <ContactID>8611739</ContactID>
+         <ContactDate>2021/01/29 0:23:58</ContactDate>
+         <Terminal>PC</Terminal>
+         <IsBroken>普通車</IsBroken>
+         <CarType>国産車</CarType>
+         <Name>6_150,000〜_NG</Name>
+         <NameKana>－</NameKana>
+         <PostalCode>905-0011</PostalCode>
+         <Region>沖縄県</Region>
+         <Address>名護市 宮里 沖縄県名護市宮里９９２－１</Address>
+         <Tel1>090-6860-2379</Tel1>
+         <Tel2 />
+         <Fax />
+         <EMail>test55@gmail.com</EMail>
+         <Model>ダイハツ ムーヴ</Model>
+         <ModelYear>2006年/平成18年</ModelYear>
+         <Grade />
+         <Color />
+         <Transmission />
+         <Steering />
+         <Door />
+         <Displacement />
+         <FuelType />
+         <Mileage>150,000〜</Mileage>
+         <NextCheck />
+         <Option />
+         <Comment />
+         <CVStatus>有効</CVStatus>
+         <CVComment />
+      </Item>
+   </AssessInfo>
+</Root>
+
