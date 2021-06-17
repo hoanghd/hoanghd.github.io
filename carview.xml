@@ -1,0 +1,79 @@
+<Root
+	xmlns="http://schemas.datacontract.org/2004/07/eCRM.Models"
+	xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<Authentication>True</Authentication>
+	<OutputTime>2021/06/17 19:32:47</OutputTime>
+	<Status>1</Status>
+	<AssessInfo>
+		<Item>
+			<AssessorName>ネクステージ</AssessorName>
+			<ProviderID>12771</ProviderID>
+			<ProviderName>株式会社ネクステージ</ProviderName>
+			<CustomerID>30477907</CustomerID>
+			<ContactID>8770183</ContactID>
+			<ContactDate>2021/06/10 0:04:48</ContactDate>
+			<Terminal>PC</Terminal>
+			<IsBroken>普通車</IsBroken>
+			<CarType>輸入車</CarType>
+			<Name>野畑　周平</Name>
+			<NameKana>－</NameKana>
+			<PostalCode>819-0006</PostalCode>
+			<Region>福岡県</Region>
+			<Address>福岡市西区 姪浜駅南４－１７－１７</Address>
+			<Tel1>090-9566-9671</Tel1>
+			<Tel2/>
+			<Fax/>
+			<EMail>goro2626@yahoo.co.jp</EMail>
+			<Model>メルセデス・ベンツ Eクラス セダン</Model>
+			<ModelYear>2010年/平成22年</ModelYear>
+			<Grade/>
+			<Color/>
+			<Transmission/>
+			<Steering/>
+			<Door/>
+			<Displacement/>
+			<FuelType/>
+			<Mileage>60,001～65,000</Mileage>
+			<NextCheck/>
+			<Option/>
+			<Comment/>
+			<CVStatus>有効</CVStatus>
+			<CVComment/>
+		</Item>
+		<Item>
+			<AssessorName>ネクステージ</AssessorName>
+			<ProviderID>12771</ProviderID>
+			<ProviderName>株式会社ネクステージ</ProviderName>
+			<CustomerID>30477919</CustomerID>
+			<ContactID>8770187</ContactID>
+			<ContactDate>2021/06/10 0:09:38</ContactDate>
+			<Terminal>PC</Terminal>
+			<IsBroken>普通車</IsBroken>
+			<CarType>国産車</CarType>
+			<Name>細野　博道</Name>
+			<NameKana>－</NameKana>
+			<PostalCode>950-2111</PostalCode>
+			<Region>新潟県</Region>
+			<Address>新潟市西区 大学南 １－６６９６－１４</Address>
+			<Tel1>090-4004-6241</Tel1>
+			<Tel2/>
+			<Fax/>
+			<EMail>bright.kind.gentleman@docomo.ne.jp</EMail>
+			<Model>スバル レガシィツーリングワゴン</Model>
+			<ModelYear>2010年/平成22年</ModelYear>
+			<Grade/>
+			<Color/>
+			<Transmission/>
+			<Steering/>
+			<Door/>
+			<Displacement/>
+			<FuelType/>
+			<Mileage>150,001～</Mileage>
+			<NextCheck/>
+			<Option/>
+			<Comment/>
+			<CVStatus>有効</CVStatus>
+			<CVComment/>
+		</Item>
+	</AssessInfo>
+</Root>
